@@ -1,3 +1,3 @@
 from django.http import Httpresponse
-def conecta_un(request):
+def conecta_un1(request):
     return Httpresponse("Hola, Mundo")
