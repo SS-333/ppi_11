@@ -85,7 +85,6 @@ https://flask.palletsprojects.com/en/2.2.x/
 
 
 
-## Librerías disponibles
 
 ## Librerías disponibles
 
@@ -138,10 +137,6 @@ https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
 
 Es una librería de React que permite integrar un editor de texto enriquecido en aplicaciones web. Es fácil de integrar y personalizar, y ofrece características útiles como la compatibilidad con HTML, la capacidad de agregar enlaces e imágenes, y opciones de formato de texto como negrita, cursiva y tachado.
 https://www.npmjs.com/package/react-quill
-
-
-
-
 
 
 
