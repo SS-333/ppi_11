@@ -15,8 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from conecta_un import conecta_un
+from conecta_un.views import hola_mundo
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('conecta_un1/',conecta_un),
+    path('init/',hola_mundo),
 ]
