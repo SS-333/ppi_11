@@ -6,7 +6,6 @@ ConectaUn es una plataforma que permite a los integrantes de la Universidad Naci
 
 Este proyecto ha sido desarrollado por los siguientes autores:
 
-- Sergio Romero
 - Max Steven Hurtado
 - Rafael Mauricio Builes Marin
 
