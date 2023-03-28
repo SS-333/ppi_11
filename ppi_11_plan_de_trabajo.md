@@ -8,39 +8,47 @@
 
 ## Informe 04
 
-- Crear las primeras vistas en Django y ver cómo se pueden usar para mostrar contenido a través de React.
-- Configurar React en el proyecto e instalar Bootstrap
-- Crear un componente React sencillo.
-- Configurar la base de datos.
+- Configurar el entorno de desarrollo de React.
+- Crear un esquema de la base de datos con las tablas necesarias para el registro de usuarios y eventos.
+- Crear las páginas correspondientes en React para el registro de usuarios.
 
 ## Informe5
 
-- Trabajar en el modelo de datos.
-- Crear migraciones en Django y aplicarlas.
-- Agregar React Router DOM y configurar las rutas principales del sitio.
+- Crear las vistas necesarias en Django para el registro de usuarios.
+- Validar los datos de los usuarios al registrarse y mostrar mensajes de error en caso de ser necesario.
+- Integrar las vistas de Django con las páginas de React.
+- Implementar el envío de correos electrónicos de confirmación de registro.
 
 ## Informe6
 
-- Crear formularios en Django para que los usuarios puedan crear y modificar contenido.
-- Implementar Redux o Context Api en el proyecto de React y comenzar a trabajar en la gestión del estado de la aplicación.
-- Conectar el modelo de datos con el componente de React y comenzar a mostrar contenido en el sitio.
+- Crear las páginas correspondientes en React para el inicio de sesión y cierre de sesión de usuarios.
+- Implementar el redireccionamiento a la página de inicio después del inicio de sesión.
+- Integrar la API de Google Calendar
 
 ## Informe7
 
-- Agregar funcionalidad de autenticación y autorización en Django con django-allauth
-- Implementar el login y logout en React y proteger las rutas del sitio que requieren autenticación.
+- Crear las vistas necesarias en Django para la creación de eventos.
+- Validar los datos de los eventos al crearlos y mostrar mensajes de error en caso de ser necesario.
+- Implementar la asociación de eventos con usuarios
+- Implementar la paginación de eventos
 
 ## Informe8
 
-- Agregar interactividad en React utilizando eventos y estado.
-- Agregar validaciones en los formularios tanto en Django como en React.
-- Implementar react-quill para que los usuarios puedan crear contenido utilizando un editor de texto enriquecido..
+- Crear las vistas necesarias en Django para la visualización de eventos.
+- Crear las páginas correspondientes en React para la visualización de eventos.
+- Integrar las vistas de Django con las páginas de React.
+- Implementar la funcionalidad de agregar comentarios a los eventos.
 
 ## Informe9
 
-- Agregar la API de Google Calendar para mostrar eventos en el sitio.
-- Utilizar axios y django-rest-framework para crear una API en Django que permita crear y consultar eventos en la agenda de Google.
+- Implementar la búsqueda y filtrado de eventos
+- Crear las vistas necesarias en Django para la edición y eliminación de eventos.
+- Validar los datos de los eventos al editarlos y mostrar mensajes de error en caso de ser necesario.
+- Crear las páginas correspondientes en React para la edición y eliminación de eventos.
+- Integrar las vistas de Django con las páginas de React.
+- Optimizar el rendimiento de la página y realizar mejoras de usabilidad.
+- Corregir errores y bugs.
 
 ## Informe10
 
-- Desplegar el sitio en un servidor en la nube.
+- Entrega final del proyecto
