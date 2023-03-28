@@ -38,13 +38,13 @@
 - Crear las páginas correspondientes en React para la visualización de eventos.
 - Integrar las vistas de Django con las páginas de React.
 - Implementar la funcionalidad de agregar comentarios a los eventos.
-
-## Informe9
-
 - Implementar la búsqueda y filtrado de eventos
 - Crear las vistas necesarias en Django para la edición y eliminación de eventos.
 - Validar los datos de los eventos al editarlos y mostrar mensajes de error en caso de ser necesario.
 - Crear las páginas correspondientes en React para la edición y eliminación de eventos.
+
+## Informe9
+
 - Integrar las vistas de Django con las páginas de React.
 - Optimizar el rendimiento de la página y realizar mejoras de usabilidad.
 - Corregir errores y bugs.
