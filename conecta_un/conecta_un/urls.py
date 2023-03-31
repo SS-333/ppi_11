@@ -18,5 +18,5 @@ from django.urls import path
 from conecta_un.views import hola_mundo
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('init/',hola_mundo),
+    path('',hola_mundo),
 ]
